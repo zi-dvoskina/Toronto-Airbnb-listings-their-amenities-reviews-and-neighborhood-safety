@@ -4,11 +4,11 @@ Project timeline:
 Jan 2021 - April 2021
 
 Project team:
-Zinaida Dvoskina (myself)
-Kirill Ilin
-Lichang Tan
-Jack Qu
-Sam Therrien
+- Zinaida Dvoskina (myself)
+- Kirill Ilin
+- Lichang Tan
+- Jack Qu
+- Sam Therrien
 
 Gathered datasets on crime rates in the city of Toronto and Toronto Airbnb listings from different sources. Cleaned and wrangled them using dplyr package, among other tidyverse packages.
 
