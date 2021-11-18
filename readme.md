@@ -44,4 +44,4 @@ The dashboard can be used by Toronto-based Airbnb hosts to identify what ameniti
 ❗️ make sure to change the path in the global.R file if you're wishing to run the app ❗️
 
 - global parameter (directory of the data files)
-- dir_data = '~/Documents/NORTHEASTERN UNIVERSITY/MSBA/MISM 6210/Final Project/data
+- dir_data = '~/Documents/NORTHEASTERN UNIVERSITY/MSBA/MISM 6210/Final Project/data'
