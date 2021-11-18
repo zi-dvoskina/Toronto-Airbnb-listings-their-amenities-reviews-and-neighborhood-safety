@@ -35,3 +35,5 @@ And the following user controls:
 - Neighbourhood Selector
 
 The dashboard can be used by Toronto-based Airbnb hosts to identify what amenities would yield them most returns and what the listing should include. It’s especially useful for those looking to invest in a property to become a host as they can choose an estate that would maximize their ROI.
+
+❗️make sure to change the path in the global file if you're wishing to run the whole app❗️
