@@ -1,4 +1,4 @@
-Toronto Airbnb listings and crime rates.
+Toronto Airbnb listings, their amenities, reviews,  and neighborhood safety.
 
 Project timeline:
 Jan 2021 - April 2021
