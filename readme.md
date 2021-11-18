@@ -34,10 +34,11 @@ And the following user controls:
 - Home Rating Selector (poor, acceptable, good, very good, excellent)
 - Neighbourhood Selector
 
-<img width="1904" alt="Screen Shot 2021-11-18 at 05 36 20" src="https://user-images.githubusercontent.com/67168908/142423654-2f29a3c8-a306-4e8b-a02a-557c23bb4ca7.png">
-<img width="1904" alt="Screen Shot 2021-11-18 at 05 36 08" src="https://user-images.githubusercontent.com/67168908/142423682-c5497ca8-4646-4dbc-a765-a98d1b77e887.png">
-<img width="1904" alt="Screen Shot 2021-11-18 at 05 35 56" src="https://user-images.githubusercontent.com/67168908/142423704-5b60295c-6a59-49e1-b962-bc45601153fb.png">
-<img width="1904" alt="Screen Shot 2021-11-18 at 05 35 44" src="https://user-images.githubusercontent.com/67168908/142423729-4cfe7a0e-7894-4d4b-b16e-f9d757332177.png">
+<img width="1904" alt="1" src="https://user-images.githubusercontent.com/67168908/142513333-97b189dd-9c88-4fc0-95e0-b2660141b8b2.png">
+<img width="1904" alt="2" src="https://user-images.githubusercontent.com/67168908/142513339-acabcea7-7d3f-4e2e-97b6-5c61c43a6138.png">
+<img width="1904" alt="3" src="https://user-images.githubusercontent.com/67168908/142513343-37b6ebbc-c8ee-488b-84b8-19510e2da4a9.png">
+<img width="1904" alt="4" src="https://user-images.githubusercontent.com/67168908/142513350-b085fdb6-0950-463a-b14e-3aca64f4a5aa.png">
+<img width="1904" alt="5" src="https://user-images.githubusercontent.com/67168908/142513355-3f244b09-dc01-4870-b4d9-0e8f9dd2c8df.png">
 
 The dashboard can be used by Toronto-based Airbnb hosts to identify what amenities would yield them most returns and what the listing should include. It’s especially useful for those looking to invest in a property to become a host as they can choose an estate that would maximize their ROI.
 
