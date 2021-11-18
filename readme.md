@@ -34,6 +34,11 @@ And the following user controls:
 - Home Rating Selector (poor, acceptable, good, very good, excellent)
 - Neighbourhood Selector
 
+<img width="1904" alt="Screen Shot 2021-11-18 at 05 36 20" src="https://user-images.githubusercontent.com/67168908/142423654-2f29a3c8-a306-4e8b-a02a-557c23bb4ca7.png">
+<img width="1904" alt="Screen Shot 2021-11-18 at 05 36 08" src="https://user-images.githubusercontent.com/67168908/142423682-c5497ca8-4646-4dbc-a765-a98d1b77e887.png">
+<img width="1904" alt="Screen Shot 2021-11-18 at 05 35 56" src="https://user-images.githubusercontent.com/67168908/142423704-5b60295c-6a59-49e1-b962-bc45601153fb.png">
+<img width="1904" alt="Screen Shot 2021-11-18 at 05 35 44" src="https://user-images.githubusercontent.com/67168908/142423729-4cfe7a0e-7894-4d4b-b16e-f9d757332177.png">
+
 The dashboard can be used by Toronto-based Airbnb hosts to identify what amenities would yield them most returns and what the listing should include. It’s especially useful for those looking to invest in a property to become a host as they can choose an estate that would maximize their ROI.
 
 ❗️ make sure to change the path in the global.R file if you're wishing to run the whole app
