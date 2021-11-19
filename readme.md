@@ -12,7 +12,7 @@ Project team:
 
 Gathered datasets on crime rates in the city of Toronto and Toronto Airbnb listings from different sources. Cleaned and wrangled them using dplyr package, among other tidyverse packages.
 
-Conducted text analysis: pre-processed the text data (tokenize, stem, lemmatize, and spell-check each keyword; converted each text message to a single overall sentiment value using SentiWordNet lexicon; conducted a Parts of Speech analysis, and computed for each message the number of verbs, nouns, adjectives, and adverbs. 
+Conducted text analysis: pre-processed the text data (tokenize, stem, lemmatize, and spell-check each keyword); converted each text message to a single overall sentiment value using SentiWordNet lexicon; conducted a Parts of Speech analysis, and computed for each message the number of verbs, nouns, adjectives, and adverbs. 
 
 Created an R Shiny application dashboard containing the following ggplot2 visualizations:
 
